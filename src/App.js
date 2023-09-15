@@ -16,6 +16,7 @@ function App() {
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(window.innerWidth, window.innerHeight);
   renderer.toneMapping = THREE.ACESFilmicToneMapping;
+  renderer.xr.enabled = true;
 
   // Init Scene
   const scene = new THREE.Scene();
