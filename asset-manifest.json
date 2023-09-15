@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/virtual-tour-three/static/css/main.ad193ac5.css",
+    "main.js": "/virtual-tour-three/static/js/main.9eb50f50.js",
+    "static/js/787.070e79a9.chunk.js": "/virtual-tour-three/static/js/787.070e79a9.chunk.js",
+    "static/media/night_light.hdr": "/virtual-tour-three/static/media/night_light.3f6d416ad47d4dcba734.hdr",
+    "index.html": "/virtual-tour-three/index.html",
+    "main.ad193ac5.css.map": "/virtual-tour-three/static/css/main.ad193ac5.css.map",
+    "main.9eb50f50.js.map": "/virtual-tour-three/static/js/main.9eb50f50.js.map",
+    "787.070e79a9.chunk.js.map": "/virtual-tour-three/static/js/787.070e79a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad193ac5.css",
+    "static/js/main.9eb50f50.js"
+  ]
+}
