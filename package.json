@@ -2,6 +2,7 @@
   "name": "virtual-tour",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://frankothe196.github.io/virtual-tour-three",
   "dependencies": {
     "@react-three/drei": "^9.83.9",
     "@react-three/fiber": "^8.14.1",
@@ -15,6 +16,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
